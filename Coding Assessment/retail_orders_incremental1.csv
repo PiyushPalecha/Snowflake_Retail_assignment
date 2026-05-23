@@ -1,0 +1,22 @@
+Order Id,Order Date,Ship Mode,Segment,Country,City,State,Postal Code,Region,Category,Sub Category,Product Id,cost price,List Price,Quantity,Discount Percent
+800,11/26/2023,Standard Class,Consumer,United States,Lake Elsinore,California,92530,West,Furniture,Chairs,FUR-CH-10002647,260,280,5,3
+801,5/24/2023,First Class,Corporate,United States,San Diego,California,92105,West,Furniture,Furnishings,FUR-FU-10004090,20,20,1,5
+802,12/25/2023,First Class,Corporate,United States,San Diego,California,92105,West,Technology,Phones,TEC-PH-10001580,210,220,2,4
+803,9/23/2023,Second Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Appliances,OFF-AP-10000576,320,360,9,4
+804,10/11/2022,Standard Class,Corporate,United States,Monroe,Louisiana,71203,South,Office Supplies,Paper,OFF-PA-10003953,10,10,2,3
+805,2/23/2022,First Class,Consumer,United States,San Francisco,California,94122,West,Furniture,Furnishings,FUR-FU-10000794,20,20,2,5
+806,10/17/2022,Standard Class,Consumer,United States,Denver,Colorado,80219,West,Office Supplies,Art,OFF-AR-10001897,40,40,3,4
+807,4/7/2023,Standard Class,Consumer,United States,Denver,Colorado,80219,West,Technology,Phones,TEC-PH-10001795,1700,1980,4,4
+808,5/26/2023,First Class,Consumer,United States,Omaha,Nebraska,68104,Central,Furniture,Furnishings,FUR-FU-10003347,30,30,2,5
+809,7/1/2023,First Class,Consumer,United States,Omaha,Nebraska,68104,Central,Technology,Accessories,TEC-AC-10004901,130,150,3,4
+810,1/27/2023,First Class,Consumer,United States,Edmonds,Washington,98026,West,Office Supplies,Art,OFF-AR-10003190,10,10,4,4
+811,4/30/2022,First Class,Consumer,United States,Edmonds,Washington,98026,West,Furniture,Tables,FUR-TA-10002903,1090,1300,5,5
+812,4/4/2022,First Class,Consumer,United States,Edmonds,Washington,98026,West,Office Supplies,Appliances,OFF-AP-10000240,190,210,4,5
+813,7/28/2023,First Class,Consumer,United States,Edmonds,Washington,98026,West,Technology,Accessories,TEC-AC-10001101,20,30,2,5
+814,12/22/2023,Same Day,Consumer,United States,Santa Ana,California,92704,West,Furniture,Furnishings,FUR-FU-10000794,20,20,2,2
+815,10/13/2023,Same Day,Consumer,United States,Santa Ana,California,92704,West,Technology,Accessories,TEC-AC-10001838,1270,1400,7,5
+816,9/12/2022,First Class,Corporate,United States,Milwaukee,Wisconsin,53209,Central,Office Supplies,Paper,OFF-PA-10000061,50,50,8,4
+817,4/15/2022,Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Paper,OFF-PA-10003651,10,10,1,5
+818,2/23/2023,Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Paper,OFF-PA-10000304,30,40,8,3
+819,6/29/2022,Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,OFF-BI-10003094,0,0,3,2
+820,11/9/2023,Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Chairs,FUR-CH-10001394,1030,1230,5,5
