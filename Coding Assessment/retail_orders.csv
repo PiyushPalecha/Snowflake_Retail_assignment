@@ -1,0 +1,21 @@
+Order Id,Order Date,Ship Mode,Segment,Country,City,State,Postal Code,Region,Category,Sub Category,Product Id,cost price,List Price,Quantity,Discount Percent
+1,3/1/2023,Second Class,Consumer,United States,Henderson,Kentucky,42420,South,Furniture,Bookcases,FUR-BO-10001798,240,260,2,2
+2,8/15/2023,Second Class,Consumer,United States,Henderson,Kentucky,42420,South,Furniture,Chairs,FUR-CH-10000454,600,730,3,3
+3,1/10/2023,Second Class,Corporate,United States,Los Angeles,California,90036,West,Office Supplies,Labels,OFF-LA-10000240,10,10,2,5
+4,6/18/2022,Standard Class,Consumer,United States,Fort Lauderdale,Florida,33311,South,Furniture,Tables,FUR-TA-10000577,780,960,5,2
+5,7/13/2022,Standard Class,Consumer,United States,Fort Lauderdale,Florida,33311,South,Office Supplies,Storage,OFF-ST-10000760,20,20,2,5
+6,3/13/2022,Not Available,Consumer,United States,Los Angeles,California,90032,West,Furniture,Furnishings,FUR-FU-10001487,50,50,7,3
+7,12/28/2022,Standard Class,Consumer,United States,Los Angeles,California,90032,West,Office Supplies,Art,OFF-AR-10002833,10,10,4,3
+8,1/25/2022,Standard Class,Consumer,United States,Los Angeles,California,90032,West,Technology,Phones,TEC-PH-10002275,860,910,6,5
+9,3/23/2023,Not Available,Consumer,United States,Los Angeles,California,90032,West,Office Supplies,Binders,OFF-BI-10003910,20,20,3,2
+10,5/16/2023,Standard Class,Consumer,United States,Los Angeles,California,90032,West,Office Supplies,Appliances,OFF-AP-10002892,90,110,5,3
+11,3/31/2023,Not Available,Consumer,United States,Los Angeles,California,90032,West,Furniture,Tables,FUR-TA-10001539,1470,1710,9,3
+12,12/25/2023,Not Available,Consumer,United States,Los Angeles,California,90032,West,Technology,Phones,TEC-PH-10002033,750,910,4,3
+13,2/11/2022,Standard Class,Consumer,United States,Concord,North Carolina,28027,South,Office Supplies,Paper,OFF-PA-10002365,20,20,3,3
+14,7/18/2023,Standard Class,Consumer,United States,Seattle,Washington,98103,West,Office Supplies,Binders,OFF-BI-10003656,360,410,3,2
+15,11/9/2023,unknown,Home Office,United States,Fort Worth,Texas,76106,Central,Office Supplies,Appliances,OFF-AP-10002311,60,70,5,5
+16,6/18/2022,Standard Class,Home Office,United States,Fort Worth,Texas,76106,Central,Office Supplies,Binders,OFF-BI-10000756,0,0,3,5
+17,2/4/2022,Standard Class,Consumer,United States,Madison,Wisconsin,53711,Central,Office Supplies,Storage,OFF-ST-10004186,610,670,6,3
+18,8/4/2023,Second Class,Consumer,United States,West Jordan,Utah,84084,West,Office Supplies,Storage,OFF-ST-10000107,60,60,2,4
+19,1/23/2022,Second Class,Consumer,United States,San Francisco,California,94109,West,Office Supplies,Art,OFF-AR-10003056,10,10,2,4
+20,1/11/2022,Second Class,Consumer,United States,San Francisco,California,94109,West,Technology,Phones,TEC-PH-10001949,170,210,3,3
